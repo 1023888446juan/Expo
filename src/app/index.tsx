@@ -234,6 +234,7 @@ const estilos = StyleSheet.create({
     padding: 10,
     textAlign: 'center',
   },
+  
   cellNumero: {
     flex: 1,
   },
