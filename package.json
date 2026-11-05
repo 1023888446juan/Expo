@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "aplicacionclics",
+=======
+  "name": "app1_81",
+>>>>>>> 5a722c24e33fa8261cbe25ba98c25b1947445a03
   "version": "1.0.0",
   "main": "expo-router/entry",
   "dependencies": {

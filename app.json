@@ -1,11 +1,20 @@
 {
   "expo": {
+<<<<<<< HEAD
     "name": "aplicacionClics",
     "slug": "aplicacionClics",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
     "scheme": "aplicacionclics",
+=======
+    "name": "app1_81",
+    "slug": "app1_81",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "scheme": "app181",
+>>>>>>> 5a722c24e33fa8261cbe25ba98c25b1947445a03
     "userInterfaceStyle": "automatic",
     "ios": {
       "icon": "./assets/expo.icon"
